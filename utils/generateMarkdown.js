@@ -30,7 +30,7 @@ function generateMarkdown(userResponse) {
   ## License
   ${userResponse.license}
 
-  ## Got Questions?
+  ## Questions
   For any questions, please contact me with the information below: \n
   GitHub: ${userResponse.github} \n
   Email: ${userResponse.email}
