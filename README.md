@@ -1,2 +1,1 @@
-# professional-readme-generator
-Node.js Professional README Generator
+# Node.js README Generator

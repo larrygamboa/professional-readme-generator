@@ -8,31 +8,29 @@
   - [Contributors](#Contributors)
   - [Tests](#Tests)
   - [License](#License)
-  - [GitHub](#GitHub)
-  - [Contact](#Contact) 
+  - [Questions](#Questions) 
 
   ## Description
-  This is the project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  This is a project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   
   ## Installation
-  These steps are required for installation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  These are the required steps for installation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
   ## Usage
-  These are the instructions to follow. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  These are the instructions to use for the project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
   ## Contributors
   qwerty12345
 
   ## Tests
-  These are the instructions to run tests. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  These are the instructions for running tests. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
   ## License
   Mozilla Public License 2.0
 
-  ## GitHub
-  larrygamboa
-
-  ## Contact
-  techmedia.lg@gmail.com
+  ## Got Questions?
+  For any questions, please contact me with the information below:
+  GitHub: https://github.com/larrygamboa
+  Email: techmedia.lg@gmail.com
 
   
