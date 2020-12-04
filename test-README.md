@@ -28,7 +28,7 @@
   ## License
   Mozilla Public License 2.0
 
-  ## Got Questions?
+  ## Questions
   For any questions, please contact me with the information below: 
 
   GitHub: https://github.com/larrygamboa 
