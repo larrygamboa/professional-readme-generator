@@ -7,7 +7,7 @@
   - [Usage](#Usage)
   - [Contributors](#Contributors)
   - [Tests](#Tests)
-  - [Licence](#Licence)
+  - [License](#License)
   - [GitHub](#GitHub)
   - [Contact](#Contact) 
 
@@ -15,24 +15,24 @@
   This is the project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   
   ## Installation
-  Follow these steps for installation: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  These steps are required for installation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
   ## Usage
-  These are the instruction to use the project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  These are the instructions to follow. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
   ## Contributors
   qwerty12345
 
   ## Tests
-  To run tests, follow these steps: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  These are the instructions to run tests. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
   ## License
-  MIT license
+  Mozilla Public License 2.0
 
-  ## GitHub User
+  ## GitHub
   larrygamboa
 
-  ## Email
+  ## Contact
   techmedia.lg@gmail.com
 
   

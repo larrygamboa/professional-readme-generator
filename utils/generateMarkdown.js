@@ -9,7 +9,7 @@ function generateMarkdown(userResponse) {
   - [Usage](#Usage)
   - [Contributors](#Contributors)
   - [Tests](#Tests)
-  - [Licence](#Licence)
+  - [License](#License)
   - [GitHub](#GitHub)
   - [Contact](#Contact) 
 
@@ -31,10 +31,10 @@ function generateMarkdown(userResponse) {
   ## License
   ${userResponse.license}
 
-  ## GitHub User
+  ## GitHub
   ${userResponse.username}
 
-  ## Email
+  ## Contact
   ${userResponse.email}
 
   `;
