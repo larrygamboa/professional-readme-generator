@@ -11,7 +11,7 @@
   - [GitHub](#GitHub)
   - [Contact](#Contact) 
 
-  ## Project Description
+  ## Description
   This is the project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   
   ## Installation
