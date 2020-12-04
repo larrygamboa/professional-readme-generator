@@ -21,7 +21,7 @@ The criteria for the assignment are as follows:
 6) When a user clicks on the links in the Table of Contents then the user is taken to the corresponding section of the README.
 
 
-**Resources**
+## Resources
 
 1) https://www.npmjs.com/package/inquirer
 2) https://nodejs.org/api/fs.html#fs_fs_writefile_file_data_options_callback
@@ -30,6 +30,6 @@ The criteria for the assignment are as follows:
 5) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
 6) https://javascript.info/async-await
 
-**Screenshot**
+## Screenshot
 
-![alt text]()
+![alt text](https://github.com/larrygamboa/professional-readme-generator/blob/main/assets/readme-gen-screenshot.jpg)
