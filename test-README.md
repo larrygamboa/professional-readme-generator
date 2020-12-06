@@ -11,22 +11,22 @@
   - [Questions](#Questions) 
 
   ## Description
-  This is a project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  This is the project description. Lorem ipsum dolor sit amet.
   
   ## Installation
-  These are the required steps for installation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  These are the steps required for installation. Lorem ipsum dolor sit amet.
 
   ## Usage
-  These are the instructions to use for the project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  These are the instructions to use the project. Lorem ipsum dolor sit amet.
 
   ## Contributors
   qwerty12345
 
   ## Tests
-  These are the instructions for running tests. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  These are the instructions for testing. Lorem ipsum dolor sit amet.
 
   ## License
-  Mozilla Public License 2.0
+  MIT license
 
   ## Questions
   For any questions, please contact me with the information below: 
