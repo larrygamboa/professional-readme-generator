@@ -1,8 +1,11 @@
 # Node.js README Generator
 
-**GitHub repository**: https://github.com/larrygamboa/professional-readme-generator
+**GitHub repository**:
+https://github.com/larrygamboa/professional-readme-generator
 
-**Walkthrough Video**: 
+**Walkthrough Video**:
+https://github.com/larrygamboa/professional-readme-generator/blob/main/assets/readme-gen-walkthrough.gif
+https://drive.google.com/file/d/1MXMG7GiE4UewcFGNqAWiU05Gq3eioKAq/view
 
 ## User Story
 As a developer, I want a README generator so that I can quickly create a professional README for a new project.
@@ -30,6 +33,7 @@ The criteria for the assignment are as follows:
 5) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
 6) https://javascript.info/async-await
 
-## Screenshot
+## Video and Screenshot
 
+![alt text](https://github.com/larrygamboa/professional-readme-generator/blob/main/assets/readme-gen-walkthrough.gif)
 ![alt text](https://github.com/larrygamboa/professional-readme-generator/blob/main/assets/readme-gen-screenshot.jpg)
