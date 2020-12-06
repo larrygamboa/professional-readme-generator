@@ -4,8 +4,8 @@
 https://github.com/larrygamboa/professional-readme-generator
 
 **Walkthrough Video**:
-https://github.com/larrygamboa/professional-readme-generator/blob/main/assets/readme-gen-walkthrough.gif
-https://drive.google.com/file/d/1MXMG7GiE4UewcFGNqAWiU05Gq3eioKAq/view
+1) https://github.com/larrygamboa/professional-readme-generator/blob/main/assets/readme-gen-walkthrough.gif
+2) https://drive.google.com/file/d/1MXMG7GiE4UewcFGNqAWiU05Gq3eioKAq/view
 
 ## User Story
 As a developer, I want a README generator so that I can quickly create a professional README for a new project.
